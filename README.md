@@ -1,0 +1,1 @@
+/nobackup/pwzb23/PhD/CASTEP_Tutorial/Altermagnet_Calculations
